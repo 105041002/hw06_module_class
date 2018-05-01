@@ -2,5 +2,5 @@
 
 
 class Human:
-    def sai_hi(self):
+    def say_hi(self):
         print(self.name, 'says', self.hi)
