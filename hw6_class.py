@@ -23,7 +23,7 @@ def main():
     # should be `Yoona says Yeoboseyo`
     x.say_hi()
 
-    x = Indian('Gandhi‎')
+    x = Indian('Gandhi')
     # should be `Gandhi‎ says Namaste`
     x.say_hi()
 
