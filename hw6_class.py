@@ -15,7 +15,7 @@ def main():
     # should be `Picasso says Hola`
     x.say_hi()
 
-    x = Janpanese('Aragaki Yui')
+    x = Japanese('Aragaki Yui')
     # should be `Aragaki Yui says Konnichiwa`
     x.say_hi()
 
